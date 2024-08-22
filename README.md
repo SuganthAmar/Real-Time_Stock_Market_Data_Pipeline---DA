@@ -1,6 +1,6 @@
 # Real-Time Stock Market Data Pipeline
 
-![Project Screenshot](https://github.com/SuganthAmar/Real-Time_Stock_Market_Data_Pipeline---DA/blob/main/asset/Screenshot%202024-08-22%20211440.png)
+![Project Screenshot](https://github.com/SuganthAmar/Real-Time_Stock_Market_Data_Pipeline---DA/blob/main/asset/Work%20Flow.png)
 
 ## Overview
 
